@@ -1,8 +1,10 @@
 {
   "name": "webapp",
   "version": "1.0.0",
-  "description": "ahmayzing.com site",
-  "main": "app.js",
+  "description": "Nodejs app",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
