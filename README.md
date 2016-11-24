@@ -1,2 +1,3 @@
 # webapp
-Nodejs app
+
+a [Sails](http://sailsjs.org) application
